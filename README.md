@@ -2,6 +2,10 @@
 
 A premium, fully responsive HTML template for a professional photography studio. The design evokes a warm darkroom aesthetic — near-black grounds, amber "safelight" highlights, and generous typography — to position the studio as a place of craft, patience, and considered light.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 | Token | Value |
